@@ -1,0 +1,171 @@
+abcde               CD              rip
+alsa-utils          audio           alsa
+android-tools       android
+asio                dev             c++
+autoconf            dev             build
+automake            dev             build
+awesome             X               windows_manager
+bash                cli
+bash-completion     terminal
+bind-tools          ???
+binutils            prelude
+bison               dev             parsing
+boost               dev             c++
+bzip2               cli
+cabal-install       dev             haskell
+calibre             app             book
+cargo               dev             rust
+cdparanoia          CD              rip
+clang               dev             c++
+cmake               dev             build
+coreutils           prelude
+cronie              admin
+cryptsetup          encrypt
+ctags               dev
+device-mapper       ???
+dhcpcd              admin           net
+diffutils           cli             diff
+doxygen             dev             doc
+dtach               cli
+e2fsprogs           admin           fs
+emacs-nox           editor
+encfs               encrypt
+ethtool             admin           net
+fakeroot            admin
+feh                 app             image
+file                cli             file
+filesystem          admin           file
+findutils           cli             file
+firefox             app             browser
+flashplugin         browser_plugin
+flex                dev             parsing
+fuseiso             admin           file
+gawk                cli             editor
+gcc                 dev             c                c++
+gcc-libs            dev             c                c++
+gdb                 dev             c                c++
+ghc                 dev             haskell
+gimp                app             image
+git                 dev             scm
+glibc               prelude
+gnu-netcat          cli             net
+gnuplot             app             image
+graphviz            app             image
+grep                cli             file
+gtk2hs-buildtools   ???
+gvim                editor
+gzip                cli             compression
+happy               dev             haskell          ???
+htop                cli             admin
+id3lib              ???
+imagemagick         app             image
+inetutils           admin           net
+inkscape            app             image
+intel-ucode         admin
+iputils             admin           net
+jfsutils            admin           file
+jre8-openjdk        java
+less                cli             editor
+libcaca             video           ???
+libcdio             CD ???
+libreoffice-fresh   app             editor
+libtool             ???
+libvdpau            nvidia          ???
+licenses            admin           licences
+linux               prelude         kernel
+llvm                dev             compiler
+lm_sensors          admin           sensors
+logrotate           admin           log
+lsof                admin           file
+lvm2                admin           file             ???
+lynx                app             browser          ???
+m4                  dev             compiler         ???
+make                dev             build
+man-db              cli             man
+man-pages           cli             man
+mdadm               admin           disk
+meld                app             diff
+memtest86+          admin           mem
+mesa                admin           gpu
+mtools              admin           file             ???
+mtpfs               admin           file
+mumble              voip            client
+mupdf               app             pdk
+murmur              voip            server
+mutt                cli             mail
+nano                cli             editor
+neovim              cli             editor
+netcfg              admin           net
+nethogs             cli             net
+nmap                admin           net
+ntfs-3g             admin           net              fs
+ntp                 admin           net
+oath-toolkit        cli             password
+openssh             admin           ssh
+p7zip               cli             compression
+pacman              admin           pkg
+parted              admin           disk
+patch               cli             diff             ???
+pciutils            ???
+pcmciautils         ???
+perl                dev             ???
+pkg-config          dev             compile          ???
+pkgfile             admin           pkg              ???
+pkgtools            admin           pkg              ???
+ppp                 net             ???
+procps-ng           admin           monitor          ???
+psmisc              admin           pref             ???
+pulseaudio          audio           pulse
+pulseaudio-alsa     audo            pulse            alsa
+python-neovim       editor          vim              python
+python2-gobject     python          ???
+python2-matplotlib  python          plot             ???
+python2-neovim      editor          vim              python
+python2-xdg         python          ???
+qbittorrent         app             torrent
+rdesktop            app             rdesktop
+redshift            cli             ergonomy
+reiserfsprogs       ???
+rtorrent            cli             torrent
+ruby                dev             ruby
+rust                dev             rust
+rxvt-unicode        app             terminal
+s-nail              app             mail
+sed                 cli             editor
+shadow              password
+socat               cli             net
+sshfs               cli             ssh
+strace              dev             debug
+subversion          dev             scm
+swig                dev             c++
+sysfsutils          dev             fs
+syslinux            admin           kernel
+systemd-sysvcompat  admin           systemd
+tar                 cli             compression
+tcpdump             cli             net
+texinfo             ???
+tig                 dev             scm              git
+tmux                cli
+tree                cli             file
+ttf-dejavu          font
+unrar               cli             compression
+unzip               cli             compression
+usbutils            admin           usb
+util-linux          admin
+valgrind            dev             debug
+vi                  cli             editor
+vlc                 app             player
+wget                cli             net
+which               cli             file
+wireshark-gtk       app             net
+xclip               cli             X
+xf86-video-nouveau  admin           gpu
+xfsprogs            admin           fs
+xine-ui             app             player
+xorg-server         X
+xorg-server-utils   X
+xorg-twm            X               ???
+xorg-xev            cli             X
+xorg-xinit          X
+xterm               app             terminal         ???
+zip                 cli             compression
